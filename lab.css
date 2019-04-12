@@ -1,0 +1,16 @@
+/*
+* courtney lenoir
+* due date
+* lab
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+footer { background-color: cornflowerblue}
+header { background-color:aqua}
+main { background-color:aquamarine }
+body {background-color: antiquewhite}
